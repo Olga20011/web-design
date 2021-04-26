@@ -1,0 +1,49 @@
+.column{
+    float: left;
+    width: 30%;
+    height: 400px;
+    padding: 8px;
+    color: grey;
+
+}
+row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+#about{
+    font-size: large;
+    text-align: unset;
+    color: grey;
+    
+}
+.courses{
+    font: size 5px;
+    text-align: justify;
+    text-emphasis-color: grey;
+    
+}
+
+#main{
+    text-align: center;
+    font-size: 100px;
+    font-family: cursive;
+    font-style: oblique;
+}
+
+#quote{
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+
+}
+hr{
+    border: 2px solid purple;
+}
+.heading{
+    color: black;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
